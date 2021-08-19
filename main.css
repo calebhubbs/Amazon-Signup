@@ -43,6 +43,8 @@ button {
     font-size: 14px;
     padding: 5px;
     border-radius: 1px;
+    display: block;
+    margin: 0 auto; 
 }
 
 .outline {
