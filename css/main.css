@@ -1,0 +1,78 @@
+.amazonlogo {
+    text-align: ceter;
+    margin: 20px 0;
+    padding: 20px
+}
+
+.background-line {
+    background-color: gray;
+    width: 33%;
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.form-control {
+    font-size: 12px;
+}
+
+.font-text> p {
+    text-align: center;
+    color: black;
+    width: 200px;
+    font-display: center;
+}
+
+button { 
+    display: flex;
+    justify-content: center;
+}
+
+.button-continue {
+    width:100%; 
+    border: 2px gray;
+    background-image: linear-gradient(yellow, orange);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.button-create {
+    text-align: center;
+    background-color: lightgray;
+    border: 1px gray solid;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 1px;
+}
+
+.outline {
+    border: 2px gray solid;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 25;
+    font-weight: 200px;
+}
+
+.form-group>label {
+    font-size: 13px;
+    font-weight: 300px;
+    margin-top: 8px;
+}
+
+.forgotpassword {
+    float: right;
+}
+
+footer {
+    text-align: center;
+}
+
+footer>div>ul>li {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+}
